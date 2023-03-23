@@ -11,7 +11,7 @@
 
 
 **How to Run the project?**
-### npm start
+### npm install && npm start
 
 or
 
