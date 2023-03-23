@@ -26,6 +26,7 @@ or
 **npm i loadtest --save-dev**
 
 ### Commands
+
 **loadtest -n 10  -c 1 http://localhost:3000/user **
 
 Rate limits are set to 5 request / 5 seconds
